@@ -1,0 +1,7 @@
+/*
+SCRIPT CREATED BY ECHO [SKYPE: MR.ECHOTM] || STEAM: http://steamcommunity.com/id/Echogamingz
+VERSION: LAST (01.07.2017)
+Changelog:
+LAST -> added firewall protection
+*/
+

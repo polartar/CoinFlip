@@ -1,0 +1,27 @@
+{
+  "proxies": ["Your Proxy"],
+  "bots": {
+    "0": {
+      "username": "",
+      "password": "",
+      "botname": "",
+      "identitySecret": "",
+      "sharedSecret": ""
+    }
+  },
+  "adminIDs": [""],
+  "options": {
+    "sql": {
+      "host": "localhost",
+      "username": "UserName",
+      "password": "Password",
+      "database": "Database Name"
+    },
+    "apikey":"",
+    "appid": "730",
+    "acceptRandomFriendRequests": false,
+    "priceRefreshInterval": 3600,
+    "confirmationInterval": 5000,
+    "minDeposit": 0.03
+  }
+}
