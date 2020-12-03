@@ -43,8 +43,8 @@
 					$mail->isSMTP();                                            // Set mailer to use SMTP
 					$mail->Host       = 'smtp.gmail.com';  // Specify main and backup SMTP servers
 					$mail->SMTPAuth   = true;                                   // Enable SMTP authentication
-					$mail->Username   = 'vgocheapnoreply@gmail.com';                     // SMTP username
-					$mail->Password   = 'z7wWXYEL24LV5Vs3';                               // SMTP password
+					$mail->Username   = 'Your email';                     // SMTP username
+					$mail->Password   = 'Email Password';                               // SMTP password
 					$mail->SMTPSecure = 'ssl';                                  // Enable TLS encryption, `ssl` also accepted
 					$mail->Port       = 465;                                    // TCP port to connect to
 
